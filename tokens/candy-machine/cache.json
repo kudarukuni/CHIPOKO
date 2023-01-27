@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "Gdh1qQhrwtZTubPDK4WsU1eKna8XPQLi2kDuUFkSNwGC",
+    "candyMachineCreator": "2wcjrfok9kXELXyJcHNh8mxfndUNb6iXVHn3fWmp8z5d",
+    "collectionMint": "7WAobhLk8j6pLh5HgQuPrUk83u1pEWXodRXcYwJQR3mq"
+  },
+  "items": {
+    "-1": {
+      "name": "Chipoko NFT Collection",
+      "image_hash": "d92a9f4b48e1139ab2fa19c0c0af61193beaf5ebfb93bcb7e1e427b2cd02dae1",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/collection.png",
+      "metadata_hash": "f6918a451d78954d4c641473c4ce7154b6150624208dcbbc277dccfa9d3635c1",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/collection.json",
+      "onChain": true
+    },
+    "0": {
+      "name": "Chipoko NFT #1",
+      "image_hash": "a3ce36a7dbefc66eeccbfe4620994038d776d25f34721f475044514208e03f11",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/0.png",
+      "metadata_hash": "44bf133bc21cd45538d44419717d4b564d2fa6a3b1f146cbd1c84602c7ca681d",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Chipoko NFT #2",
+      "image_hash": "ab514b88d28b798a21894022275236c18124fa9adbbe025969939ef672cec958",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/1.png",
+      "metadata_hash": "160a32550fb1a02499c8913b7687a045711cb4413211fbaa4299392da3d36759",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Chipoko NFT #3",
+      "image_hash": "45561d45d26c1b19e7e0ca0b5de57830fcad4c766bc5a80e0bff492cad9a923b",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/2.png",
+      "metadata_hash": "e802a000eacf6ce97bd87915a5ca6d9f71494171fc8a5d0b82d8ccd52da2c8c7",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "Chipoko NFT #4",
+      "image_hash": "c65a401b4e87bd6c9907db4eccdde0dbbe09ce1da796e041b326d498e0d1a93b",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/3.png",
+      "metadata_hash": "753effe245d5dac2e70f5216d4b8e189b3df490361ef08f47e2b8677d5f87257",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "Chipoko NFT #5",
+      "image_hash": "3ce2aed1142990c2db8ecbb9f88e07b568a23aff785653dd01a81a753c465783",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/4.png",
+      "metadata_hash": "2f1ad45375762aa3572bbb67df6cbc7f7b0f3931ab8fef3fb147540160fd3598",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/4.json",
+      "onChain": true
+    },
+    "5": {
+      "name": "Chipoko NFT #6",
+      "image_hash": "59bd130c677dade0a94f99fc436901e343df090854c4676949be510684f8ab86",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/5.png",
+      "metadata_hash": "64dd35ad8f059f426e5b74f414d0d77120d3d720481d567c8b792fda4375d007",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/5.json",
+      "onChain": true
+    },
+    "6": {
+      "name": "Chipoko NFT #7",
+      "image_hash": "a7932dc4ca423f2c02b05c684e4e63eb29a2a658710c52a3175bff6618496dbb",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/6.png",
+      "metadata_hash": "dc4e8c34e007018b0f4f3f4b89d6f07577e3d0b4fdef0aa4fea77789ba7c6ef4",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/6.json",
+      "onChain": true
+    },
+    "7": {
+      "name": "Chipoko NFT #8",
+      "image_hash": "c72fd5e8d998854f426f30da65f1b16917109f3519799843bb4dc9dbeb0800e4",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/7.png",
+      "metadata_hash": "19028dcb07d345901a6e067888b859547bae1c6e4be91d72ffb78b3ec91ae832",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/7.json",
+      "onChain": true
+    },
+    "8": {
+      "name": "Chipoko NFT #9",
+      "image_hash": "f0f76a955e5e896137a6d1585703cd03f541674253b0826a39f5513c4e51c61e",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/8.png",
+      "metadata_hash": "1f2b3b451d5e3b2c3d3068be13837d2e99328b8992a10c3ed3852f25471cad54",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/8.json",
+      "onChain": true
+    },
+    "9": {
+      "name": "Chipoko NFT #10",
+      "image_hash": "a91e7f0053646da47808d78f1ec3a182a32f67d9cadb9d353d65b06f35d8f4f8",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif6hgvrc6ubncjl4vc6ogxbiovdhqvykf62up4lqqq662pq5adgke/9.png",
+      "metadata_hash": "f8aa0fc600ddac8510d7cdfc64bff66989840e4a7db79e38dc4706b353575170",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib3t5sne2qpxv35hrc72lo4nvem37nj3iizmojlkvbjrouzft24qi/9.json",
+      "onChain": true
+    }
+  }
+}

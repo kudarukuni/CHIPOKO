@@ -1,0 +1,20 @@
+{
+    "name": "Chipoko NFT #4",
+    "symbol": "CHP",
+    "description": "The NFT for the Grim Reapers.",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "skull neckchain"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}

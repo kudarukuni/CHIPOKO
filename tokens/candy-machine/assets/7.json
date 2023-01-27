@@ -1,0 +1,20 @@
+{
+    "name": "Chipoko NFT #8",
+    "symbol": "CHP",
+    "description": "The NFT for the Grim Reapers.",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "ghost rider bike"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}

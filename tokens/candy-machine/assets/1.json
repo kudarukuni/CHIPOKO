@@ -1,0 +1,20 @@
+{
+    "name": "Chipoko NFT #2",
+    "symbol": "CHP",
+    "description": "The NFT for the Grim Reapers.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "skull ring"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
