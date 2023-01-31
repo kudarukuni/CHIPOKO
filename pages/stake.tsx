@@ -78,11 +78,11 @@ const Stake: NextPage<StakeProps> = ({ mintAddress, imageSrc }) => {
     <MainLayout>
       <VStack spacing={3} justify="flex-start" align="flex-start">
         <Heading color="white" as="h1" size="2xl">
-          Level up your Reaper
+          Level Up Your Chipoko
         </Heading>
         <Text color="bodyText" fontSize="xl" textAlign="start" maxWidth="600px">
-          Stake your Reaper to earn 10 $GRT per day to get access to a
-          randomized loot box full of upgrades for your Reaper
+          Stake your Ghost to earn 10 $GRT (Goritoto Tokens) per day to get access to a
+          randomized loot box full of upgrades specifically for your Chipoko.
         </Text>
         <HStack spacing={20} alignItems="flex-start">
           <VStack align="flex-start" minWidth="200px">
