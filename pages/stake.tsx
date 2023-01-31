@@ -81,7 +81,7 @@ const Stake: NextPage<StakeProps> = ({ mintAddress, imageSrc }) => {
           Level up your Reaper
         </Heading>
         <Text color="bodyText" fontSize="xl" textAlign="start" maxWidth="600px">
-          Stake your Reaper to earn 10 $GSC per day to get access to a
+          Stake your Reaper to earn 10 $GRT per day to get access to a
           randomized loot box full of upgrades for your Reaper
         </Text>
         <HStack spacing={20} alignItems="flex-start">
