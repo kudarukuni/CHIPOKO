@@ -23,10 +23,10 @@ const Disconnected: FC = () => {
       <Container zIndex={10}>
         <VStack spacing={20}>
         <Heading color="white" as="h1" size="2xl" noOfLines={2} textAlign="center">
-           The Goritoto NFT Collection 
+           The Chipoko NFT Collection 
           </Heading>
           <Text fontSize={"22px"} color={"white"} textAlign="center">
-          Join the ranks of the Grim Reapers by minting your own Goritoto NFT collectible and earn Ghostcoins $GSC by staking your collectible. You can upgrade your collectible by purchasing gears and outfits from the various lootboxes in the community! Time to level up mint your Reaper.
+          Join the ranks of the Grim Reapers an Ghosts by minting your own Chipoko NFT collectible and earn Goritoto Tokens $GRT by staking your collectible. You can upgrade your collectible by purchasing gears and outfits from the various lootboxes in the community! Time to level up, mint your CHP.
           </Text>
           <Button bgColor="#0000BB"_hover={{ bgColor: "#0000FF", }} color="white" maxW="380px" onClick={handleClick}>
             <HStack>
