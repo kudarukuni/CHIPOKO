@@ -218,7 +218,7 @@ export const StakeOptionsDisplay = ({
                         ? `${stakeAccount
                               ?.claimable()
                               .toPrecision(2)} $GRT earned`
-                        : "Earn $GSC by Staking"}
+                        : "Earn $GRT by Staking"}
                 </Text>
             </VStack>
             <Button
@@ -240,7 +240,7 @@ export const StakeOptionsDisplay = ({
                     onClick={handleUnstake}
                     isLoading={isConfirmingTransaction}
                 >
-                    unstake
+                    Unstake
                 </Button>
             ) : null}
         </VStack>
