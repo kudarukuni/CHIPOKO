@@ -211,14 +211,14 @@ export const StakeOptionsDisplay = ({
                 <Text color="white" as="b" fontSize="4xl">
                     {`${
                         Number(bldTokenAccount?.amount ?? 0) / Math.pow(10, 2)
-                    } $GSC`}
+                    } $GRT`}
                 </Text>
                 <Text color="bodyText">
                     {stakeAccount?.stakeState.staked
                         ? `${stakeAccount
                               ?.claimable()
-                              .toPrecision(2)} $GSC earned`
-                        : "earn $GSC by staking"}
+                              .toPrecision(2)} $GRT earned`
+                        : "Earn $GSC by Staking"}
                 </Text>
             </VStack>
             <Button
@@ -231,8 +231,8 @@ export const StakeOptionsDisplay = ({
             >
                 <Text as="b">
                     {stakeAccount?.stakeState.staked
-                        ? "claim $GSC"
-                        : "Stake Reaper"}
+                        ? "Claim $GRT"
+                        : "Stake Chipoko"}
                 </Text>
             </Button>
             {stakeAccount?.stakeState.staked ? (
