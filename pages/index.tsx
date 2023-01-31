@@ -14,8 +14,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Goritoto NFT</title>
-        <meta name="The NFT Collection for Grim Reapers" />
+        <title>Chipoko NFT</title>
+        <meta name="The NFT Collection for Zvipokos" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -63,13 +63,13 @@ const Home: NextPage = () => {
               </Link>
             </Text>
             <Text>
-             | built with &nbsp;
+             Built on the &nbsp;
               <Link
                 color="#00acee"
-                href="https://twitter.com/_buildspace"
+                href="https://twitter.com/solana"
                 isExternal
               >
-                Buildspace 💙
+                Solana Blockchain 💙
               </Link>
             </Text>
                 </HStack>
