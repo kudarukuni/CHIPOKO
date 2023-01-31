@@ -59,12 +59,12 @@ const NewMint: NextPage<NewMintProps> = ({ mint }) => {
         <Container>
           <VStack spacing={8}>
             <Heading color="white" as="h1" size="2xl" textAlign="center">
-              😮 A new Grim Reaper has appeared!
+              Chip😮ko!! A new Ghost has appeared!
             </Heading>
 
             <Text color="bodyText" fontSize="xl" textAlign="center">
               Congratulations, you have minted a level 1 Grim Reaper! <br />
-              Time to stake your goritoto and earn rewards while you level up.
+              Time to stake your Chipoko and earn Goritoto Tokens while you level up.
             </Text>
           </VStack>
         </Container>
@@ -78,7 +78,7 @@ const NewMint: NextPage<NewMintProps> = ({ mint }) => {
           onClick={handleClick}
         >
           <HStack>
-            <Text>Stake my Reaper </Text>
+            <Text>Stake my Chipoko </Text>
             <ArrowForwardIcon />
           </HStack>
         </Button>
