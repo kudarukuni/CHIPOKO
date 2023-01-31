@@ -11,8 +11,8 @@ const MainLayout: FC<{ children: ReactNode }> = ({ children }) => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Goritoto NFT</title>
-        <meta name="The NFT Collection for Grim Reaper" />
+        <title>Chipoko NFT</title>
+        <meta name="The NFT Collection for Zvipokos" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
