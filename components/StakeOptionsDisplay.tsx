@@ -211,7 +211,7 @@ export const StakeOptionsDisplay = ({
       </Text>
       <VStack spacing={-1}>
         <Text color="white" as="b" fontSize="4xl">
-          {`${Number(bldTokenAccount?.amount ?? 0) / Math.pow(10, 2)} $GG`}
+          {`${Number(bldTokenAccount?.amount ?? 0) / Math.pow(10, 2)} $GRC`}
         </Text>
         <Text color="bodyText">
           {stakeAccount?.stakeState.staked
