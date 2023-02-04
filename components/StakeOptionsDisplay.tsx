@@ -215,7 +215,7 @@ export const StakeOptionsDisplay = ({
         </Text>
         <Text color="bodyText">
           {stakeAccount?.stakeState.staked
-            ? `${stakeAccount?.claimable().toPrecision(2)} $GG earned`
+            ? `${stakeAccount?.claimable().toPrecision(2)} $GRC earned`
             : "Earn $GRC By Staking"}
         </Text>
       </VStack>
