@@ -64,7 +64,7 @@ const NewMint: NextPage<NewMintProps> = ({ mint }) => {
 
             <Text color="bodyText" fontSize="xl" textAlign="center">
               Congratulations, you have minted a level 1 Grim Reaper! <br />
-              Time to stake your Chipoko and earn Goritoto Tokens while you level up.
+              Time to stake your Chipoko and earn GoritotoCoins while you level up.
             </Text>
           </VStack>
         </Container>
