@@ -26,7 +26,7 @@ const Disconnected: FC = () => {
            The Chipoko NFT Collection 
           </Heading>
           <Text fontSize={"22px"} color={"white"} textAlign="center">
-          Join the ranks of the Grim Reapers an Ghosts by minting your own Chipoko NFT collectible and earn Goritoto Tokens $GRT by staking your collectible. You can upgrade your collectible by purchasing gears and outfits from the various lootboxes in the community! Time to level up, mint your CHP.
+          Join the ranks of the Grim Reapers an Ghosts by minting your own Chipoko NFT collectible and earn GoritotoCoins $GRC by staking your collectible. You can upgrade your collectible by purchasing gears and outfits from the various lootboxes in the community! Time to level up, mint your CHP.
           </Text>
           <Button bgColor="#0000BB"_hover={{ bgColor: "#0000FF", }} color="white" maxW="380px" onClick={handleClick}>
             <HStack>
