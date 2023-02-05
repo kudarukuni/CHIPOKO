@@ -1,6 +1,6 @@
 {
-  "name": "gnft",
-  "version": "1.10.29",
+  "name": "chipoko",
+  "version": "1.14.13",
   "private": true,
   "scripts": {
     "dev": "next dev",
